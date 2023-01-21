@@ -2,10 +2,11 @@ header{
   position:fixed;
   top:0;
   width:100%;
-  height:17%;
+  height:13%;
   margin-left:0px;
   color:white;
   display:flex;
+  background-color:black;
 
 }
 h1{
@@ -22,21 +23,23 @@ top:20px;
 
 nav li a{
     color:#f2f2f2;
-  font-family:fantasy;
+  font-family:arial;
   padding:80px;
   margin:20px;
   font-size:30px;
+      text-decoration: none;
+  transition:all 0.3s ease 0s;
 }
 
 nav li a:hover{
-  color:Blue;
+  color:lightslategray;
 }
 
 .img2{
   padding:100px;
   text-align: center;
-  color:#ffffff;
-  border:10px;
+
+    border:10px;
   height:100;
   font-family:sans-serif;
   position:relative;
@@ -49,7 +52,9 @@ nav li a:hover{
 body{
   background-color:#8b8574;
   margin:0px;
-
+  position:relative;
+ top:30%;
+;
 }
 body{ 
   background-image:url("IC.png");
@@ -65,8 +70,7 @@ margin-top:18%;
   width:100%;
   color:white;
     position:fixed;
-  top:430px;
-  
+top:430px;
 }
 
 footer a{
@@ -82,4 +86,24 @@ footer a{
   right:80%;
   left:100%;
   bottom:80%;
+}
+
+body{ 
+  background-image:url("Backk.png");
+background-position: center;
+  background-repeat: no-repeat; 
+  background-size: cover;
+background-attachment:fixed;
+}
+
+.hoverboy{
+  color:#08f8fd;
+  font-family:'Courier New', Courier, monospace;
+    text-decoration: none;
+  transition:all 0.3s ease 0s;
+}
+
+.hoverboy:hover{
+  background-color:#5c5c5c;
+  
 }

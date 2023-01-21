@@ -16,40 +16,48 @@ nav{
 color:white;
 }
 nav li{
-  display: inline-block;
-list-style:none;  
+display:inline-block;
+  list-style:none;
 top:20px;
+
 }
 
 nav li a{
     color:#f2f2f2;
-  font-family:fantasy;
+  font-family:arial;
   padding:10px;
   margin:70px;
   font-size:30px;
+    text-decoration:none;
+  transition:all 1s ease 0s;
+
+}
+nav li a:hover{
+color:#b2a4a4;
+
 }
 
-nav li a:hover{
-color:grey;
-background-color:#e0e0e0;
-}
 
 .img2{
-  padding:100px;
-  text-align: center;
-  color:#ffffff;
-  border:10px;
+  padding:5px;
+  text-align: right;
+  color:#000000;
+  border:5px;
   height:100;
   font-family:sans-serif;
   position:relative;
-  bottom:450px;
+  top:135px;
+  margin:5px;
+font-family:cursive;
 }
 
 .img2 a{
   color:red;
+    text-decoration: none;
+  transition:all 0.3s ease 0s;
 }
 .img2 a:hover{
-  background-color:#ffe0e0;
+ color:#001df5;
 }
 body{
   background-color:#8b8574;
@@ -57,14 +65,11 @@ body{
 
 }
 body{ 
-background-image:url("IC.png");
-
-  height: 100%; 
-  background-position: center; 
+  background-image:url("Back.png");
+background-position: center;
   background-repeat: no-repeat; 
   background-size: cover;
-    background-attachment: fixed;
-
+background-attachment:fixed;
 }
 
 footer{
@@ -76,7 +81,7 @@ margin-top:18%;
   width:100%;
   color:white;
     position:fixed;
-  top:430px;
+top:430px;
   
 }
 
@@ -87,10 +92,5 @@ footer a{
   font-family:cursive;
 
 }
-.img5{
-  position:static;
-  top:90%;
-  right:80%;
-  left:100%;
-  bottom:80%;
-}
+
+

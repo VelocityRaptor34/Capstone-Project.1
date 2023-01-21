@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="Product.css" rel="stylesheet" type="text/css" />
+  <title>Capstone</title>
+</head>
+
+<body>
+  <header>
+    <h1>Genetek Industries</h1>
+    <nav>
+     <ul>
+       <li><a href="index.html">Home</a></li>
+       <li><a href="About">About</a></li>
+       <li><a href="Product">Product</a></li>
+     </ul>
+    </nav>
+  </header>
+  
+
+  
+  <script src="script.js"></script>
+
+<p>
+<img src="product1.png" width="500px  "> 
+</p>
+
+<p class="para">  Atlast Survivor:  Ring for outdoorsment, campers, and explorers alike. Ring made from stainless steel, gorilla glass for the screen.</p> <p class="para"> Plastic buttons on the sides of the screen to move back and forward in the app selection. All apps and services built by Genetek Industries.</p><p class="cara"><a href="purchase">Purchase</a></p>
+
+<p class="cs">
+<img src="product2.png" width="250px" height="200px"> 
+
+<img src="product3.png" width="250px" height="200px"> 
+
+<img src="product4.png" width="250px" height="200px"> 
+
+<img src="product5.png" width="250px" height="200px"> 
+</p>
+
+<video width="300px" height="250px" controls>
+<source src="Vid.mp4" type="video/mp4">
+</video>
+
+  <footer ><p class="jk">Genetek © 2022  <a href="Concern">Concern</a> </p></footer>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>

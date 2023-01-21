@@ -12,9 +12,16 @@ CONCERN!
 <form action="https://formspree.io/f/xayzwreg" method="Post">
 <label for="name">Customer Name</label>
       <input type="text" id="name" name="name" placeholder="Enter your name" required>
-      <br>
-      <label for="Concern">Concern</label>
- <input id="Concern" type="text" name="concern" placeholder="Enter your Concern" required>
+      
+<br>
+     <label for="Concern">Concern</label>
+    <input id="Concern" type="text" name="concern" placeholder="Enter your Concern" required>
+<br>
+        <label for="ConcernType">Concern type</label>
+        <select id="ConcernType"  name="ConcernType">
+          <option value="-->Select an option<--">Select an option</option>
+          <option  value="Product Concern">Product Concern</option>
+          <option value="Customer Service Concern">Customer Service Concern</option
 <br>
 <div>
 <input type="submit" value="SUBMIT">

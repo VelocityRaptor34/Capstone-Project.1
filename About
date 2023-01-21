@@ -20,27 +20,28 @@
      </ul>
     </nav>
   </header>
+<h2><p>/            </p></h2>
+<h2><p>         /                  </p></h2>
+<h2><p>                           </p></h2>
 
-<h2><p>How did Genetek Industries come to be?<p/></h2>
-<h3><p>Well, one of the CEO's of Genetek Industries had a grandfather who passed away under unfortunate events. Being an older avid outdoors man he always carried a life alert device, and one such day he ventured into the mountains near his home, and would usually spend a few days there. Unfortunately, he suffered a stroke and fell unconcious.Because his grandpa was unconscious, and even though he had a life alert, he couldn't hit the button to ask for help. But with our product we can prevent these types of accidents from happening.</h3></p>
 
-<h2><p>ON AVERAGE</p></h2>
-<h3><p>120-150 people die every year due to  hiking injuries While the number varies from year to year, on average around 2,000 hikers get lost each year while hiking.  This leads to numerous Search and Rescue (SAR) operations being launched to locate and extract lost hikers. Failure or Loss of Equipment (GPS) is another common reason why they get lost</p></h3>
+<h2><p class="hoverboy">How did Genetek Industries come to be?<p/></h2>
+<h3><p class="hoverboy">Well, one of the CEO's of Genetek Industries had a grandfather who passed away under unfortunate events. Being an older avid outdoors man he always carried a life alert device, and one such day he ventured into the mountains near his home, and would usually spend a few days there. Unfortunately, he suffered a stroke and fell unconcious.Because his grandpa was unconscious, and even though he had a life alert, he couldn't hit the button to ask for help. But with our product we can prevent these types of accidents from happening.</h3></p>
 
-<h2><p>What can the "Atlas:Survivor" do?</p></h2>
-<h3><p>We are happy to say our product is specially designed to have, portable design, vital tracker, SOS system, bluetooth, waterproof, connected up to view information, long battery life</p></h3>
+<h2><p class="hoverboy">ON AVERAGE</p></h2>
+<h3><p class="hoverboy">120-150 people die every year due to  hiking injuries While the number varies from year to year, on average around 2,000 hikers get lost each year while hiking.  This leads to numerous Search and Rescue (SAR) operations being launched to locate and extract lost hikers. Failure or Loss of Equipment (GPS) is another common reason why they get lost</p></h3>
 
-<h3><p class="class1">
+<h2><p class="hoverboy">What can the "Atlas:Survivor" do?</p></h2>
+<h3><p class="hoverboy">We are happy to say our product is specially designed to have, portable design, vital tracker, SOS system, bluetooth, waterproof, connected up to view information, long battery life</p></h3>
+
+<h3><p class="hoverboy">
 As we can see, the Atlas:Survivor's features, such as the vitals, can be seen from the Atlas:Survivor app. This is helpful not only to the outdoorsmen, but their family and the police. Say the situation occurs like the aformentioned grandfather. Not only can his family check the app to make sure the health of their relative is normal, but if they were to not be normal, the authorities can reach the victim faster because they are alerted faster. Also the waterproof feature protects it from any kind of aquatic damage and the built in gps can help many people return back to safety or send a clear longitude and latitude location if help is needed. The strong metal and glass are also going to help you in yout outdoor adventures.
 
 </p></h3>
 <p class="class3">
-<img src="Phone.png" height="600px" width="450px">
+<img src="ring1.png" height="600px" width="375px">
 </p>
   <footer >Genetek © 2022  <a href="Concern">Concern</a> </footer>
-
-<h2>You may be asking how effective is Atlas:Survivor?</h2>
-<p class="class5"><img src="Survey.png" height="300px" width="500px"></p>
 
   <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
 </body>
